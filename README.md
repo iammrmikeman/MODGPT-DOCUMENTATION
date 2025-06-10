@@ -1,7 +1,7 @@
 🔖 MODGPT-DOCUMENTATION – Public Showcase (No Source Code)
 “The future of AI-driven game development begins here.”
 
-This repository contains a high-level, read-only documentation snapshot of MODGPT — a proprietary AI-powered game modding and automation framework built on memory governance, doctrinal enforcement, and swarm-based intelligence.
+This repository contains a high-level, read-only documentation snapshot of MODGPT — a proprietary AI-powered game modding and automation framework built on memory governance, doctrinal enforcement, true comunication, real time memory intelligence.
 
 🧠 No source code or logic included
 
